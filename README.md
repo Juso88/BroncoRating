@@ -1,7 +1,7 @@
 # BroncoRating
 
 ## Project Description
-RateMyClass is a web platform where students can rate professors and other students, fostering constructive feedback in academic settings.
+BroncoRating is a web platform where students can rate professors and other students, fostering constructive feedback in academic settings.
 
 ## Key Features
 - **User Authentication** – Secure login system with role-based access for students, professors, and admins.  
