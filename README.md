@@ -8,7 +8,6 @@ BroncoRating is a web platform where students can rate professors and other stud
 - **Rating System** – Students can rate professors and other students 
 - **Reputation Management** – Prevents spam reviews and ensures fair rating calculations.  
 - **Search & Filter** – Find users by name, course, or rating.  
-- **Sentiment Analysis** – Analyzes reviews to detect trends in feedback.  
 - **Admin Moderation** – Tools to flag, review, and manage inappropriate content.
 
 ## OOP Principles Applied
